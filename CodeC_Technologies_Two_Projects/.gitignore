@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.vscode/
+.idea/
+.DS_Store
+
+# Generated model/data
+01_Movie_Recommendation_System/data/
+02_Spam_Email_Classifier/data/
+02_Spam_Email_Classifier/model/
